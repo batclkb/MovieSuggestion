@@ -1,4 +1,4 @@
-Recommendation System
+Recommendation System:
 A movie title is received from the user and other movies that are most similar to that movie's description are ranked and recommended using Cosine Similarity.
 
 Code Flow:
