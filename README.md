@@ -3,6 +3,4 @@ A movie title is received from the user and other movies that are most similar t
 
 Code Flow:
 
-a. The user title is searched in the dataset.
-b. Similarity scores are ranked according to the movie index.
-c. The movies with the highest scores are recommended.
+First, the user searches for the movie name in the dataset. Then, similarity scores are ranked according to the Movie index. As a result, the movies with the highest scores are recommended.
